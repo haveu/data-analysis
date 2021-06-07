@@ -1,6 +1,7 @@
 this is analysis for athlete in olympic
 mathematics
-pandas
+code
 colorful graph 
 Data visualisation
 vibrant
+designing
