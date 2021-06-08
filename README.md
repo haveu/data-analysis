@@ -1,2 +1,2 @@
 # data-analysis
-payement
+payement option
